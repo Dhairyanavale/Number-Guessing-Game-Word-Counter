@@ -17,4 +17,4 @@ While putting it together, I checked the official Python documentation for `rand
 1. Open your terminal in the project folder.
 2. Run the program with:
    ```bash
-   py calculator.py or python calculator.py depending on your system configuration
+   py main.py or python main.py depending on your system configuration
