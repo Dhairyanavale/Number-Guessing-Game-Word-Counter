@@ -1,0 +1,6 @@
+@'
+The quick brown fox jumps over the lazy dog. The fox ran fast while the dog stayed calm.
+Testing this counter with punctuation, commas, periods! Quick tests help check word counts.
+'@ | Set-Content -Path ".\sample.txt" -Encoding utf8
+
+py main.py
